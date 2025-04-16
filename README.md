@@ -1,4 +1,4 @@
-# SGCD
+#  deepCDG
 ## 
 ## Description
 
