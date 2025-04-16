@@ -48,7 +48,7 @@ data = data.to(device)
 
 # 5 fold
 if args.use_5_CV_pkl:
-    with open(f'../{args.dataset}_data.pkl', 'rb') as file:
+    with open(f'../data/{args.dataset}_data.pkl', 'rb') as file:
         k_sets = pickle.load(file)
 else:
     k_sets = k_folds(data)
