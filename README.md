@@ -16,7 +16,7 @@
 
 The codes are organized as follows:&#x20;
 
-*   `main.py`: the main script of SGCD.
+*   `main.py`: the main script of deepCDG.
 *   `models.py`: the implementations of models.
 *   `utils.py`: the script of data input and output.
 
