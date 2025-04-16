@@ -31,7 +31,7 @@ parser.add_argument('--dropout', type=float, default=0.5)
 parser.add_argument('--weight_decay', type=float, default=0.)
 parser.add_argument('--alpha', type=float, default=0.15)
 parser.add_argument('--seed', type=int, default=42)
-parser.add_argument('--use_5_CV_pkl', type=bool, default=True,
+parser.add_argument('--use_5_CV_pkl', type=bool, default=False,
                     help='whether to use existed 5_CV.pkl')
 parser.add_argument('--logs', default=False, help='Save the results to a log file')
 parser.add_argument('--times', type=int, default=1, help='Times of 5_CV')
