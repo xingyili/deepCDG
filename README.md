@@ -20,7 +20,8 @@ The codes are organized as follows:&#x20;
 *   `models.py`: the implementations of models.
 *   `utils.py`: the script of data input and output.
 
-
+### Data
+*   ./data/k_sets.pkl contains information for five-fold cross-validation.
 ### PPI files
 
 *   The organized PPI files are on [EMOGI](https://github.com/schulter/EMOGI).
