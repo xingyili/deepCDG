@@ -8,9 +8,9 @@
 
 ### Special dependencies
 
-*   Pytorch 1.10.1
-*   Pytorch geometric 2.0.1
-*   Sklearn 1.3.2
+*   Python  3.8
+*   Pytorch 1.8.0
+*   Pytorch geometric 2.0.2
 
 ### Overview
 
