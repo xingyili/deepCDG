@@ -2,7 +2,7 @@
 ## 
 ## Description
 
-![Mainframe](Mainframe.png)
+![Mainframe](structure.png)
 
 ## Getting Started
 
