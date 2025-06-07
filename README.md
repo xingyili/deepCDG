@@ -32,3 +32,8 @@ You can simply run deepCDG by calling
 
 `python main.py`
 
+### Evaluate deepCDG
+For evaluation of deepCDG, please follow the instructions given here:
+
+.[https://github.com/schulter/EMOGI](https://github.com/schulter/EMOGI)
+
