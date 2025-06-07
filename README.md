@@ -35,5 +35,5 @@ You can simply run deepCDG and evaluate the performance on pan-cancer datasets b
 ### Evaluate deepCDG
 For other evaluation of deepCDG, please follow the instructions given here:
 
-[https://github.com/schulter/EMOGI](https://github.com/xingyili/deepCDG-eval)
+[https://github.com/xingyili/deepCDG-eval](https://github.com/xingyili/deepCDG-eval)
 
