@@ -28,6 +28,7 @@ The codes are organized as follows:&#x20;
 
 
 ### Running deepCDG
+You can simply run robust by calling
 
 `python main.py`
 
