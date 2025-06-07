@@ -30,7 +30,7 @@ The codes are organized as follows:&#x20;
 ### Running deepCDG
 You can simply run deepCDG by calling
 
-`python main.py`
+`python main.py --dataset ["CPDB", "MULTINET", "STRINGdb", "PCNet", "IRefIndex", "IRefIndex_2015"]`
 
 ### Evaluate deepCDG
 For evaluation of deepCDG, please follow the instructions given here:
