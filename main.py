@@ -42,7 +42,7 @@ set_seed(args.seed)
 
 # load data
 device = torch.device(args.device)
-data = get_ppi(args.dataset, PATH='../PPI_data/')
+data = get_ppi(args.dataset, PATH='./data/')
 data.x = data.x[:, :48]
 data = data.to(device)
 
