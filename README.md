@@ -27,7 +27,7 @@ The codes are organized as follows:&#x20;
 *   The organized PPI files are on [EMOGI](https://github.com/schulter/EMOGI).
 
 
-### How to run
+### Running deepCDG
 
 `python main.py`
 
