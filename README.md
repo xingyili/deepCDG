@@ -21,14 +21,15 @@ The codes are organized as follows:&#x20;
 *   `utils.py`: the script of data input and output.
 
 ### Data
-*   ./data/{dataset}_data.pkl contains information for five-fold cross-validation.
+
+*   we provide data information for five-fold cross-validation.
+
 ### PPI files
 
 *   The organized PPI files for CPDB can be downloaded from [CPDB_multiomics](https://github.com/xingyili/deepCDG/releases/download/v1.0.0/CPDB_multiomics.h5).
 
-
 ### Running deepCDG 
-You can simply run deepCDG and evaluate the performance on pan-cancer datasets by calling
+After you have downloaded the PPI data, You can simply run deepCDG and evaluate the performance on pan-cancer datasets by calling
 
 `python main.py --dataset ["CPDB", "MULTINET", "STRINGdb", "PCNet", "IRefIndex", "IRefIndex_2015"]`
 
