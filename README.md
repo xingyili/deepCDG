@@ -27,13 +27,13 @@ The codes are organized as follows:&#x20;
 *   The organized PPI files are on [EMOGI](https://github.com/schulter/EMOGI).
 
 
-### Running deepCDG
-You can simply run deepCDG by calling
+### Running deepCDG 
+You can simply run deepCDG and evaluate the performance on pan-cancer datasets by calling
 
 `python main.py --dataset ["CPDB", "MULTINET", "STRINGdb", "PCNet", "IRefIndex", "IRefIndex_2015"]`
 
 ### Evaluate deepCDG
-For evaluation of deepCDG, please follow the instructions given here:
+For other evaluation of deepCDG, please follow the instructions given here:
 
 .[https://github.com/schulter/EMOGI](https://github.com/schulter/EMOGI)
 
