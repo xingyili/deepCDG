@@ -24,7 +24,7 @@ The codes are organized as follows:&#x20;
 *   ./data/{dataset}_data.pkl contains information for five-fold cross-validation.
 ### PPI files
 
-*   The organized PPI files for CPDB can be downloaded from [https://github.com/xingyili/deepCDG/releases/download/v1.0.0/CPDB_multiomics.h5](https://github.com/xingyili/deepCDG/releases/download/v1.0.0/CPDB_multiomics.h5).
+*   The organized PPI files for CPDB can be downloaded from [CPDB_multiomics](https://github.com/xingyili/deepCDG/releases/download/v1.0.0/CPDB_multiomics.h5).
 
 
 ### Running deepCDG 
