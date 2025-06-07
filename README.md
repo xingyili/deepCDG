@@ -22,7 +22,7 @@ The codes are organized as follows:&#x20;
 
 ### Data
 
-*   we provide data information for five-fold cross-validation.
+*   we provide feature information for five-fold cross-validation.
 
 ### PPI files
 
